@@ -1,4 +1,8 @@
 Ovo je moj prvi tekst dokument za vezbu.
 1. Prvi red
 2. Drugi red
-3. Dodao treci red, izmenio, Nenad.
+3. Sintaksa za for petlju:
+     for (statement 1; statement 2; statement 3) {
+     // code block to be executed
+     }
+4.      
