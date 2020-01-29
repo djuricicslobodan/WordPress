@@ -12,4 +12,5 @@ Ovo je moj prvi tekst dokument za vezbu.
 
 
 10. Ovo je jos jedna promena teksta.
+11. Promena 11.
 
