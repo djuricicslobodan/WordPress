@@ -8,3 +8,8 @@ Ovo je moj prvi tekst dokument za vezbu.
 4. Nova promena
 5. Jos jedna promena.   
 
+
+
+
+10. Ovo je jos jedna promena teksta.
+
