@@ -5,4 +5,4 @@ Ovo je moj prvi tekst dokument za vezbu.
      for (statement 1; statement 2; statement 3) {
      // code block to be executed
      }
-4.      
+4. Nova promena
