@@ -6,4 +6,5 @@ Ovo je moj prvi tekst dokument za vezbu.
      // code block to be executed
      }
 4. Nova promena
-5. Jos jedna promena.
+5. Jos jedna promena.   
+
