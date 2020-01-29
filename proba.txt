@@ -1,3 +1,4 @@
-Ovo je moj prvi tekst dokument za vezbu.
+Ovo je moj prvi tekst dokument.
 1.Prvi red
 2.Drugi red
+3.Treci red
